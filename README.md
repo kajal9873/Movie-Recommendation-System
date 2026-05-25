@@ -1,6 +1,10 @@
 🎬 Movie Recommendation System
 A content-based movie recommendation system built with Python, Streamlit, and machine learning. Given any movie, it recommends 5 similar movies along with their posters fetched in real time from the TMDB API.
 
+<img width="1916" height="1136" alt="image" src="https://github.com/user-attachments/assets/8dd1cc4d-245c-49dd-99e7-5bfd897b681f" />
+
+
+
 🌐 Live Demo
 
 GitHub Repository: https://github.com/kajal9873/Movie-Recommendation-System.git
