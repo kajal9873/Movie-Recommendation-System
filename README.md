@@ -1,6 +1,12 @@
 🎬 Movie Recommendation System
 A content-based movie recommendation system built with Python, Streamlit, and machine learning. Given any movie, it recommends 5 similar movies along with their posters fetched in real time from the TMDB API.
 
+🌐 Live Demo
+
+GitHub Repository: https://github.com/kajal9873/Image-Caption-Generator
+
+Deploy on Streamlit Cloud: https://movie-recommendation-system-fc6lhnthexzk4ndoqbw48j.streamlit.app/
+
 📌 Features
 
 🔍 Content-Based Filtering — recommendations based on movie overview, genres, keywords, cast, and director
