@@ -3,7 +3,7 @@ A content-based movie recommendation system built with Python, Streamlit, and ma
 
 🌐 Live Demo
 
-GitHub Repository: https://github.com/kajal9873/Image-Caption-Generator
+GitHub Repository: https://github.com/kajal9873/Movie-Recommendation-System.git
 
 Deploy on Streamlit Cloud: https://movie-recommendation-system-fc6lhnthexzk4ndoqbw48j.streamlit.app/
 
